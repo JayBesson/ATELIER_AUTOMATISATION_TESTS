@@ -30,7 +30,8 @@ Difficulté : Faible (~10 minutes)
 ---------------------------------------------------
 
 Rendez-vous sur **https://www.pythonanywhere.com/** et créez vous un compte. Puis créez un serveur Web **Flask 3.13**. 
-  
+<img width="1462" height="303" alt="image" src="https://github.com/user-attachments/assets/8edf9e0d-a19a-4572-a26e-55af71628a2c" />
+
 ---------------------------------------------------------------------------------------------
 🧩 Séquence 3 : Les Actions GitHUB (Industrialisation Continue)
 ---------------------------------------------------------------------------------------------
