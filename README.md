@@ -48,7 +48,9 @@ Pour cet atelier, **vous avez 4 secrets à créer** dans votre Repository GitHUB
 **PA_TOKEN** = votre API token. Token à créer dans pythonanywhere (Acount → API Token).  
 **PA_TARGET_DIR** = Web → Source code (ex: /home/monuser/myapp).  
 **PA_WEBAPP_DOMAIN** = votre site (ex: monuser.pythonanywhere.com).  
-  
+
+<img width="1032" height="437" alt="image" src="https://github.com/user-attachments/assets/d404f129-fb2a-4dca-af23-a495c35cdd6e" />
+
 **Dernière étape :** Pour engager l'automatisation de votre première Action, vous devez cliquer sur le gros boutton vert dans l'onglet supérieur [Actions] dans votre Repository Github. Le boutton s'intitule "I understand my workflows, go ahead and enable them". Ensuite procédez à une "petite" modification de votre fichier README.md GitHub puis faites un [Commit] pour déclancher l'action.   
 
 Notions acquises de cette séquence :  
